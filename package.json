@@ -1,0 +1,24 @@
+{
+  "name": "js-adler",
+  "version": "1.0.0",
+  "description": "JS implementation of Adler32",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijustwannahelp/js-adler.git"
+  },
+  "keywords": [
+    "hash",
+    "adler32",
+    "adler"
+  ],
+  "author": "ijustwannahelp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ijustwannahelp/js-adler/issues"
+  },
+  "homepage": "https://github.com/ijustwannahelp/js-adler#readme"
+}
